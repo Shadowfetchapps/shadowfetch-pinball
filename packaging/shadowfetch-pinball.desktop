@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Shadowfetch Pinball
+GenericName=Pinball
+Comment=Original Shadowfetch pinball for Linux
+Exec=shadowfetch-pinball
+TryExec=shadowfetch-pinball
+Icon=shadowfetch-pinball
+Terminal=false
+Categories=Game;
+Keywords=pinball;flipper;multiball;shadowfetch;
+StartupNotify=true
+StartupWMClass=Shadowfetch Pinball
