@@ -6,6 +6,17 @@ An original Shadowfetch table for Linux. Five missions, lock, multiball, and a j
 
 ![Table](docs/screenshots/table.png)
 
+## Download
+
+Get `shadowfetch-pinball-1.0.0-linux-x86_64.tar.gz` from the [latest release](https://github.com/Shadowfetchapps/shadowfetch-pinball/releases/latest) (x86_64 Linux), then:
+
+```bash
+sha256sum -c shadowfetch-pinball-1.0.0-linux-x86_64.tar.gz.sha256
+tar -xzf shadowfetch-pinball-1.0.0-linux-x86_64.tar.gz
+cd shadowfetch-pinball-1.0.0-linux-x86_64
+./tools/install_linux.sh
+```
+
 ## Run
 
 ```bash
